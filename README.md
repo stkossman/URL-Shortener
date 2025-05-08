@@ -4,11 +4,11 @@
 
 # 🔗 Sinatra URL Shortener
 
-A minimalist URL shortening service built with Ruby and Sinatra. Accepts URLs via web interface or API, generates short codes, and redirects users - all in under 100 lines of code!
+A minimalist URL shortening service built with Ruby and Sinatra. Accepts URLs via web interface or API, generates short codes, and redirects users.
 
 ## Features
 
-- **URL Shortening**: Convert long links to short, memorable URLs
+- **URL Shortening**: Convert long links to short URLs
 - **Web Interface**: Simple, responsive HTML frontend
 - **API Endpoint**: JSON API for programmatic access (`POST /shorten`)
 - **Instant Redirects**: Fast 302 redirects for shortened URLs
